@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          MAMANG HAS BEEN DEPLOYED
+          MAMANG HAS BEEN DEPLOYED CORRECTLY!!!
         </p>
       </header>
     </div>
